@@ -1,0 +1,15 @@
+<dependency>
+	<groupId>org.apache.tomcat.embed</groupId>
+	<artifactId>tomcat-embed-jasper</artifactId>
+	<scope>provided</scope>
+</dependency>
+
+//jsp folder
+/src/main/resources/META-INF/resources/WEB-INF/jsp/
+
+
+/META-INF/resources/webjars/bootstrap/5.3.3/css/bootstrap.min.css
+/META-INF/resources/webjars/bootstrap/5.3.3/css/bootstrap.min.js
+
+
+/META-INF/resources/webjars/jquery/3.7.1/jquery.min.js
